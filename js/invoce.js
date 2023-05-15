@@ -16,7 +16,7 @@ function cargaData() {
     orientationLandscape: true,
     compress: false,
     logo: {
-      src:  "../img/logo.jpg",
+      src:  "./img/logo.jpg",
       margin: {
         top: 0,
         left: 0
